@@ -6,7 +6,6 @@
 
 
 
-![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)](https://www.nairaland.com/attachments/17103777_mobile_png1d97f48dc2cc419272983eb571033d27)
 
 
 
