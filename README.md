@@ -51,13 +51,16 @@ API Endpoints
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 our site - https://muse-frontend-lyqg.vercel.app/
+
 databse for NFTs on the site - https://cat-mouse.up.railway.app/itemlist
+
 databse for artists on the site -  https://cat-mouse.up.railway.app/getartist
 
 Users Journeys
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![User Journeys](./userjourneys.jpg)
 
-
-
+Structure of the Project
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Structure of frontend and backend as well as instructions on how to operate is are in the files of Backend repository and in the Frontend repository
 
