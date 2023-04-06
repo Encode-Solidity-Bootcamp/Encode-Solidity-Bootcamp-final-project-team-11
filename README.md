@@ -41,13 +41,22 @@ Backend Developer - [David Chukwuma](https://github.com/degencodebeast)
 
 Smart Contracts 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Artist Contract: 0x1F0544BAF1C38A5b29F4D49F0aF5d16ac27dF67b
+
+Marketplace contract- ABI ✓-ca : 0x23D30d4C0bd879C94008D6F0d159Ca72835fCF00
+
+Factory Contract:0x573519BE4166dF0A1c36e34876Fe4B1Fe6B0CE08
 
 API Endpoints
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+our site - https://muse-frontend-lyqg.vercel.app/
+databse for NFTs on the site - https://cat-mouse.up.railway.app/itemlist
+databse for artists on the site -  https://cat-mouse.up.railway.app/getartist
+
 Users Journeys
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+![User Journeys](./image.png)
 
 
 
