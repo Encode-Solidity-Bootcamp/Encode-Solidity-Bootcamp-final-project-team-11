@@ -56,7 +56,7 @@ databse for artists on the site -  https://cat-mouse.up.railway.app/getartist
 
 Users Journeys
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![User Journeys](./image.png)
+![User Journeys](./userjourneys.jpg)
 
 
 
